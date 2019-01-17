@@ -29,8 +29,7 @@ define('DB_USER', 'admin');
 define('DB_PASSWORD', '12345678');
 
 /** MySQL hostname */
-define('DB_HOST', 'moregidge.c7ekmcrkya6q.us-east-1.rds.amazonaws.com
-');
+define('DB_HOST', 'moregidge.c7ekmcrkya6q.us-east-1.rds.amazonaws.com:3306);
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
